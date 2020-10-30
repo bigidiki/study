@@ -1,0 +1,7 @@
+F:\Aliceru\study\HiRinat\HiRinat\bin\Debug\HiRinat.exe.config
+F:\Aliceru\study\HiRinat\HiRinat\bin\Debug\HiRinat.exe
+F:\Aliceru\study\HiRinat\HiRinat\bin\Debug\HiRinat.pdb
+F:\Aliceru\study\HiRinat\HiRinat\obj\Debug\HiRinat.csprojAssemblyReference.cache
+F:\Aliceru\study\HiRinat\HiRinat\obj\Debug\HiRinat.csproj.CoreCompileInputs.cache
+F:\Aliceru\study\HiRinat\HiRinat\obj\Debug\HiRinat.exe
+F:\Aliceru\study\HiRinat\HiRinat\obj\Debug\HiRinat.pdb

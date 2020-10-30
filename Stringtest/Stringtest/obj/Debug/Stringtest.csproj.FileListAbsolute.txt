@@ -1,0 +1,7 @@
+F:\Aliceru\study\Stringtest\Stringtest\bin\Debug\Stringtest.exe.config
+F:\Aliceru\study\Stringtest\Stringtest\bin\Debug\Stringtest.exe
+F:\Aliceru\study\Stringtest\Stringtest\bin\Debug\Stringtest.pdb
+F:\Aliceru\study\Stringtest\Stringtest\obj\Debug\Stringtest.csprojAssemblyReference.cache
+F:\Aliceru\study\Stringtest\Stringtest\obj\Debug\Stringtest.csproj.CoreCompileInputs.cache
+F:\Aliceru\study\Stringtest\Stringtest\obj\Debug\Stringtest.exe
+F:\Aliceru\study\Stringtest\Stringtest\obj\Debug\Stringtest.pdb

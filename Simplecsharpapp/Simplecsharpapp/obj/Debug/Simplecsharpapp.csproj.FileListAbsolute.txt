@@ -1,0 +1,7 @@
+F:\Aliceru\study\Simplecsharpapp\Simplecsharpapp\bin\Debug\Simplecsharpapp.exe.config
+F:\Aliceru\study\Simplecsharpapp\Simplecsharpapp\bin\Debug\Simplecsharpapp.exe
+F:\Aliceru\study\Simplecsharpapp\Simplecsharpapp\bin\Debug\Simplecsharpapp.pdb
+F:\Aliceru\study\Simplecsharpapp\Simplecsharpapp\obj\Debug\Simplecsharpapp.csprojAssemblyReference.cache
+F:\Aliceru\study\Simplecsharpapp\Simplecsharpapp\obj\Debug\Simplecsharpapp.csproj.CoreCompileInputs.cache
+F:\Aliceru\study\Simplecsharpapp\Simplecsharpapp\obj\Debug\Simplecsharpapp.exe
+F:\Aliceru\study\Simplecsharpapp\Simplecsharpapp\obj\Debug\Simplecsharpapp.pdb

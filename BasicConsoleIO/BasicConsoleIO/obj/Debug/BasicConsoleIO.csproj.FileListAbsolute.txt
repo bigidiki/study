@@ -1,0 +1,7 @@
+F:\Aliceru\study\BasicConsoleIO\BasicConsoleIO\bin\Debug\BasicConsoleIO.exe.config
+F:\Aliceru\study\BasicConsoleIO\BasicConsoleIO\bin\Debug\BasicConsoleIO.exe
+F:\Aliceru\study\BasicConsoleIO\BasicConsoleIO\bin\Debug\BasicConsoleIO.pdb
+F:\Aliceru\study\BasicConsoleIO\BasicConsoleIO\obj\Debug\BasicConsoleIO.csprojAssemblyReference.cache
+F:\Aliceru\study\BasicConsoleIO\BasicConsoleIO\obj\Debug\BasicConsoleIO.csproj.CoreCompileInputs.cache
+F:\Aliceru\study\BasicConsoleIO\BasicConsoleIO\obj\Debug\BasicConsoleIO.exe
+F:\Aliceru\study\BasicConsoleIO\BasicConsoleIO\obj\Debug\BasicConsoleIO.pdb

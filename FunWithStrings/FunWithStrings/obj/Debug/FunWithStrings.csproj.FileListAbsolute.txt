@@ -1,0 +1,7 @@
+F:\Aliceru\study\FunWithStrings\FunWithStrings\bin\Debug\FunWithStrings.exe.config
+F:\Aliceru\study\FunWithStrings\FunWithStrings\bin\Debug\FunWithStrings.exe
+F:\Aliceru\study\FunWithStrings\FunWithStrings\bin\Debug\FunWithStrings.pdb
+F:\Aliceru\study\FunWithStrings\FunWithStrings\obj\Debug\FunWithStrings.csprojAssemblyReference.cache
+F:\Aliceru\study\FunWithStrings\FunWithStrings\obj\Debug\FunWithStrings.csproj.CoreCompileInputs.cache
+F:\Aliceru\study\FunWithStrings\FunWithStrings\obj\Debug\FunWithStrings.exe
+F:\Aliceru\study\FunWithStrings\FunWithStrings\obj\Debug\FunWithStrings.pdb

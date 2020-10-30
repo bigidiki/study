@@ -1,0 +1,7 @@
+F:\Aliceru\study\Contactiation\Contactiation\bin\Debug\Contactiation.exe.config
+F:\Aliceru\study\Contactiation\Contactiation\bin\Debug\Contactiation.exe
+F:\Aliceru\study\Contactiation\Contactiation\bin\Debug\Contactiation.pdb
+F:\Aliceru\study\Contactiation\Contactiation\obj\Debug\Contactiation.csprojAssemblyReference.cache
+F:\Aliceru\study\Contactiation\Contactiation\obj\Debug\Contactiation.csproj.CoreCompileInputs.cache
+F:\Aliceru\study\Contactiation\Contactiation\obj\Debug\Contactiation.exe
+F:\Aliceru\study\Contactiation\Contactiation\obj\Debug\Contactiation.pdb
