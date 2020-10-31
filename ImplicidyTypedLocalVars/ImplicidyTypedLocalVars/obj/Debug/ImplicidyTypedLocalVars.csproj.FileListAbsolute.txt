@@ -1,0 +1,7 @@
+F:\Aliceru\study\ImplicidyTypedLocalVars\ImplicidyTypedLocalVars\bin\Debug\ImplicidyTypedLocalVars.exe.config
+F:\Aliceru\study\ImplicidyTypedLocalVars\ImplicidyTypedLocalVars\bin\Debug\ImplicidyTypedLocalVars.exe
+F:\Aliceru\study\ImplicidyTypedLocalVars\ImplicidyTypedLocalVars\bin\Debug\ImplicidyTypedLocalVars.pdb
+F:\Aliceru\study\ImplicidyTypedLocalVars\ImplicidyTypedLocalVars\obj\Debug\ImplicidyTypedLocalVars.csprojAssemblyReference.cache
+F:\Aliceru\study\ImplicidyTypedLocalVars\ImplicidyTypedLocalVars\obj\Debug\ImplicidyTypedLocalVars.csproj.CoreCompileInputs.cache
+F:\Aliceru\study\ImplicidyTypedLocalVars\ImplicidyTypedLocalVars\obj\Debug\ImplicidyTypedLocalVars.exe
+F:\Aliceru\study\ImplicidyTypedLocalVars\ImplicidyTypedLocalVars\obj\Debug\ImplicidyTypedLocalVars.pdb
